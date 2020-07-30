@@ -18837,5 +18837,16 @@
     "description": "A tiny calendar program",
     "license": "MIT",
     "web": "https://github.com/adam-mcdaniel/calendar"
+  },
+  {
+    "name": "Fuzzy",
+    "url": "https://github.com/mhessler97/NimFuzzy",
+    "method": "git",
+    "tags": [
+      "no"
+    ],
+    "description": "a nimble package for fuzzy logic",
+    "license": "MIT",
+    "web": "https://github.com/mhessler97/NimFuzzy"
   }
 ]
